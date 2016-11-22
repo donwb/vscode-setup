@@ -1,4 +1,4 @@
-# VSCode Multi-project setup example
+# VSCode .Net Core Multi-project setup example
 
 As I'm reteaching myself C# for the hell of it, I wanted to create a basic multi-project setup as a reference.  This example includes:
 * A library project, referenced by a console app and a test project  
